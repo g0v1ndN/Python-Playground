@@ -50,10 +50,10 @@ def print_hangman(wrong):
         print("   ===")
     elif(wrong == 6):
         print("\n+---+")
-        print(" O   |")
-        print("/|\  |")
-        print("/ \  |")
-        print("    ===")
+        print(" O  |")
+        print("/|\ |")
+        print("/ \ |")
+        print("   ===")
 
 def print_word(guessed_letters):
     counter=0
