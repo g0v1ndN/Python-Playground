@@ -1,7 +1,7 @@
 # Python-Playground
 
 ## About:
-This is a collection of fun Python programs I've created to learn the language and improve my skills.
+This repository contains a collection of beginner-friendly code projects for those new to programming with Python. As a fellow beginner, I created these projects to help me learn the basics of Python and wanted to share them with other beginners as well. Each project includes code examples and a brief description, which should be useful to those who want to try them out on their own
 
 ## Programs:
 ### 1. Hangman Game
