@@ -15,6 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 This simple yet addictive game uses ASCII to bring the game to life. But instead of random words, the word dictionary includes terminologies from computer science, challenging your knowledge of programming concepts while having fun.
 ### 2. Password Generator
 This Python password generator allows you to create passwords of any length you want. You can also customize your password with numbers and special characters for added security.
+### 3. Contact Book
+This is a simple program designed to manage a list of contacts. Users can add new contacts, search for existing contacts, display all contacts, edit existing contacts, and delete existing contacts.
 
 ## Contributing:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
