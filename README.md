@@ -4,11 +4,7 @@
 Welcome to my repository of fun Python projects for beginners! I created this repository to store the code for some of the projects I worked on when I was learning Python programming. These projects helped me practice different aspects of Python, such as working with strings, lists, loops, and functions. I'm sharing these projects with the hope that they will be useful to other beginners who are also learning Python.
 
 ## Prerequisites:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-### Learning materials:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-### How to install IDLE:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+To run the code in this repository, you'll need to have Python 3 installed on your computer. Some basic knowledge of Python programming will also be helpful, including understanding of variables, data types, control structures, functions, and loops. You can use any development environment or Python IDE of your choice to run the code. The good news is that all the necessary code and resources are included in the repository. With these prerequisites met, you should be able to easily run and experiment with the Python code in this repository.
 
 ## Programs:
 ### 1. Hangman Game
