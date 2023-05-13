@@ -6,6 +6,32 @@ Welcome to my repository of fun Python projects for beginners! I created this re
 ## Prerequisites:
 To run the code in this repository, you'll need to have Python 3 installed on your computer. Some basic knowledge of Python programming will also be helpful, including understanding of variables, data types, control structures, functions, and loops. You can use any development environment or Python IDE of your choice to run the code. The good news is that all the necessary code and resources are included in the repository. With these prerequisites met, you should be able to easily run and experiment with the Python code in this repository.
 
+## Usage Instructions:
+
+### Downloading or Cloning the Repository:
+1. Click on the "Code" button on the top right corner of this repository page.
+2. Click on "Download ZIP" to download a compressed zip file of the repository.
+3. Extract the contents of the zip file to a folder on your computer.
+
+<p align="center"><b> OR </b></p>
+
+1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
+2. Run the command `https://github.com/Govind-S-Nair/Python-Playground.git` to clone the repository to your local machine.
+
+### Steps for executing:
+1. Open your preferred integrated development environment (IDE) on your computer.
+2. Click on "File" and then "Open" to browse for and open the Python program file.
+3. Tailor the code to your specific needs and save any changes that you make to the code.
+4. Run the Python program by clicking on "Run" or "Execute" in the IDE's menu, or by using a shortcut key. The program's output should appear in the IDE's console or output window.
+
+<p align="center"><b> OR </b></p>
+
+1. Use a terminal on your computer to navigate to the directory where the Python program is located (using the cd command).
+2. Open the Python program file in a text editor of your choice.
+3. Tailor the code to your specific needs and save any changes that you make to the code.
+4. Run the Python program by typing `python3 programname.py` into the terminal, where `programname.py` is the name of the Python file you want to run.
+5. Press Enter to run the program. The program's output should appear in the terminal. 
+
 ## Programs:
 ### 1. Simple Calculator
 This simple calculator project is an excellent starting point for beginners to learn concepts such as user input, function definitions, and conditional statements. 
