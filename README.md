@@ -9,11 +9,13 @@ To run the code in this repository, you'll need to have Python 3 installed on yo
 ## Programs:
 ### 1. Simple Calculator
 This simple calculator project is an excellent starting point for beginners to learn concepts such as user input, function definitions, and conditional statements. 
-### 2. Password Generator
+### 2. Number Guessing Game
+In this number guessing game, you have 10 tries to guess a secret number between 1 and 100. Each time you guess, you'll get a hint whether your guess was too high or too low.
+### 3. Password Generator
 This Python password generator allows you to create passwords of any length you want. You can also customize your password with numbers and special characters for added security.
-### 3. Hangman Game
+### 4. Hangman Game
 This simple yet addictive game uses ASCII to bring the game to life. But instead of random words, the word dictionary includes terminologies from computer science, challenging your knowledge of programming concepts while having fun.
-### 4. Contact Book
+### 5. Contact Book
 This is a simple program designed to manage a list of contacts. Users can add new contacts, search for existing contacts, display all contacts, edit existing contacts, and delete existing contacts.
 
 ## MIT License: 
