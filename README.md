@@ -16,7 +16,7 @@ To run the code in this repository, you'll need to have Python 3 installed on yo
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command `https://github.com/Govind-S-Nair/Python-Playground.git` to clone the repository to your local machine.
+2. Run the command `https://github.com/Govind-S-Nair/Python-Playground` to clone the repository to your local machine.
 
 ### Steps for executing:
 1. Open your preferred integrated development environment (IDE) on your computer.
