@@ -1,4 +1,8 @@
 # Python-Playground
+<div align="left">
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/open-source.svg" alt="open-source"/>
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/License-MIT-green.svg" alt="open-source"/>
+</div>
 
 ## About:
 Welcome to my repository of fun Python projects for beginners! I created this repository to store the code for some of the projects I worked on when I was learning Python programming. These projects helped me practice different aspects of Python, such as working with strings, lists, loops and functions.
