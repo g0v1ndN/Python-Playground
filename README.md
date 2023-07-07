@@ -6,6 +6,9 @@
    <a href="https://opensource.org/license/mit/">
       <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
+   <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/Python-%234B8BBE" alt="python" />
+   </a>
 </div>
 
 ## About:
