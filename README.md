@@ -1,10 +1,10 @@
 # Python-Playground
 <div align="left">
    <a href="https://opensource.org/osd">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
    </a>
    <a href="https://opensource.org/license/mit/">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
    <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/Python-%234B8BBE" alt="python" />
@@ -27,7 +27,7 @@ To run the code in this repository, you'll need to have Python 3 installed on yo
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command `https://github.com/Govind-S-Nair/Python-Playground` to clone the repository to your local machine.
+2. Run the command `https://github.com/g0v1ndN/Python-Playground` to clone the repository to your local machine.
 
 ### Steps for executing:
 1. Open your preferred integrated development environment (IDE) on your computer.
@@ -56,4 +56,4 @@ This simple yet addictive game uses ASCII to bring the game to life. But instead
 This is a simple program designed to manage a list of contacts. Users can add new contacts, search for existing contacts, display all contacts, edit existing contacts, and delete existing contacts.
 
 ## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/Govind-S-Nair/Python-Playground/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
