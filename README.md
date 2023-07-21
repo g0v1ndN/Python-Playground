@@ -56,6 +56,8 @@ This simple yet addictive game uses ASCII to bring the game to life. But instead
 This is a simple program designed to manage a list of contacts. Users can add new contacts, search for existing contacts, display all contacts, edit existing contacts, and delete existing contacts.
 
 ## External Resources:
+
+### Badges
 This README includes an SVG badge from an external source, which is licensed under the Creative Commons Attribution (CC-BY) License.
 
 - **Badge Name:** Open Source v1 
