@@ -18,7 +18,9 @@
 Welcome to my repository of fun Python projects for beginners! I created this repository to store the code for some of the projects I worked on when I was learning Python programming. These projects helped me practice different aspects of Python, such as working with strings, lists, loops and functions.
 
 ## Prerequisites:
-To run the code in this repository, you'll need to have Python 3 installed on your computer. Some basic knowledge of Python programming will also be helpful, including understanding of variables, data types, control structures, functions, and loops. You can use any development environment or Python IDE of your choice to run the code. The good news is that all the necessary code and resources are included in the repository. With these prerequisites met, you should be able to easily run and experiment with the Python code in this repository.
+- <b>Python 3 Installation:</b> To execute the code provided in this repository, ensure that you have Python 3 installed on your computer.
+- <b>Basic Python Knowledge:</b> Having a foundational understanding of Python programming is beneficial. Concepts like variables, data types, control structures, functions, and loops will be helpful in comprehending the code.
+- <b>Choice of Development Environment:</b> You can use any preferred development environment or Python Integrated Development Environment (IDE) to run the code.
 
 ## Usage Instructions:
 
@@ -30,7 +32,8 @@ To run the code in this repository, you'll need to have Python 3 installed on yo
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command `https://github.com/g0v1ndN/Python-Playground` to clone the repository to your local machine.
+2. Run the command `git clone https://github.com/g0v1ndN/Python-Playground` to clone the repository to your local machine.
+<p><b>Note:</b> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the official website (https://git-scm.com).</p>
 
 ### Steps for executing:
 1. Open your preferred integrated development environment (IDE) on your computer.
