@@ -19,7 +19,7 @@ Welcome to my repository of fun Python projects for beginners! I created this re
 
 ## Usage Instructions:
 
-## Prerequisites:
+### Prerequisites:
 - Python 3 Installation: To execute the code provided in this repository, ensure that you have Python 3 installed on your computer.
 - Basic Python Knowledge: Having a foundational understanding of Python programming is beneficial. Concepts like variables, data types, control structures, functions, and loops will be helpful in comprehending the code.
 - Choice of Development Environment: You can use any preferred development environment or Python Integrated Development Environment (IDE) to run the code.
