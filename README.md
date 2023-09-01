@@ -17,12 +17,12 @@
 ## About:
 Welcome to my repository of fun Python projects for beginners! I created this repository to store the code for some of the projects I worked on when I was learning Python programming. These projects helped me practice different aspects of Python, such as working with strings, lists, loops and functions.
 
-## Prerequisites:
-- <b>Python 3 Installation:</b> To execute the code provided in this repository, ensure that you have Python 3 installed on your computer.
-- <b>Basic Python Knowledge:</b> Having a foundational understanding of Python programming is beneficial. Concepts like variables, data types, control structures, functions, and loops will be helpful in comprehending the code.
-- <b>Choice of Development Environment:</b> You can use any preferred development environment or Python Integrated Development Environment (IDE) to run the code.
-
 ## Usage Instructions:
+
+## Prerequisites:
+- Python 3 Installation: To execute the code provided in this repository, ensure that you have Python 3 installed on your computer.
+- Basic Python Knowledge: Having a foundational understanding of Python programming is beneficial. Concepts like variables, data types, control structures, functions, and loops will be helpful in comprehending the code.
+- Choice of Development Environment: You can use any preferred development environment or Python Integrated Development Environment (IDE) to run the code.
 
 ### Downloading or Cloning the Repository:
 1. Click on the "Code" button on the top right corner of this repository page.
