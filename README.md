@@ -50,16 +50,19 @@ Welcome to my repository of fun Python projects for beginners! I created this re
 5. Press Enter to run the program. The program's output should appear in the terminal. 
 
 ## Programs:
-### 1. Simple Calculator
+### <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/Simple%20Calculator.py">1. Simple Calculator</a>
 This simple calculator project is an excellent starting point for beginners to learn concepts such as user input, function definitions, and conditional statements. 
-### 2. Number Guessing Game
+### <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/Number%20Guessing%20Game.py">2. Number Guessing Game</a>
 In this number guessing game, you have 10 tries to guess a secret number between 1 and 100. Each time you guess, you'll get a hint whether your guess was too high or too low.
-### 3. Password Generator
+### <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/Password%20Generator.py">3. Password Generator</a>
 This Python password generator allows you to create passwords of any length you want. You can also customize your password with numbers and special characters for added security.
-### 4. Hangman Game
+### <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/Hangman%20Game.py">4. Hangman Game</a>
 This simple yet addictive game uses ASCII to bring the game to life. But instead of random words, the word dictionary includes terminologies from computer science, challenging your knowledge of programming concepts while having fun.
-### 5. Contact Book
+### <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/Contact%20Book.py">5. Contact Book</a>
 This is a simple program designed to manage a list of contacts. Users can add new contacts, search for existing contacts, display all contacts, edit existing contacts, and delete existing contacts.
+
+## Contributing
+I warmly welcome contributions to the Python Playground repository! If you have fun and engaging Python programs suitable for beginners, your input is highly appreciated. To contribute, fork the repository, add your program under the <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/LICENSE">MIT License</a>, and submit a pull request. Let's collaborate and make learning Python enjoyable for all. For detailed instructions on creating pull requests, please refer to <a href="https://makeapullrequest.com/">this guide</a>.
 
 ## MIT License: 
 Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
