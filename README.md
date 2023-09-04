@@ -61,7 +61,7 @@ This simple yet addictive game uses ASCII to bring the game to life. But instead
 ### <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/Contact%20Book.py">5. Contact Book</a>
 This is a simple program designed to manage a list of contacts. Users can add new contacts, search for existing contacts, display all contacts, edit existing contacts, and delete existing contacts.
 
-## Contributing
+## Contributing:
 I warmly welcome contributions to the Python Playground repository! If you have fun and engaging Python programs suitable for beginners, your input is highly appreciated. To contribute, fork the repository, add your program under the <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/LICENSE">MIT License</a>, and submit a pull request. Let's collaborate and make learning Python enjoyable for all. For detailed instructions on creating pull requests, please refer to <a href="https://makeapullrequest.com/">this guide</a>.
 
 ## MIT License: 
