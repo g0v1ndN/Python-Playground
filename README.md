@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/License-MIT-green" alt="mit-license"/>
    </a>
    <a href="https://www.python.org/">
-      <img src="https://img.shields.io/badge/Python-%234B8BBE" alt="python" />
+      <img src="https://img.shields.io/badge/Python-%234B8BBE?logo=Python&logoColor=yellow"" alt="python" />
    </a>
 </div>
 
