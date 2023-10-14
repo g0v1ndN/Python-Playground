@@ -34,7 +34,7 @@ Welcome to my repository of fun Python projects for beginners! I created this re
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
 2. Run the command `git clone https://github.com/g0v1ndN/Python-Playground` to clone the repository to your local machine.
 > [!NOTE]
-> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the [official website](https://git-scm.com).</p>
+> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the [official website](https://git-scm.com).
 
 ### Steps for executing:
 1. Open your preferred integrated development environment (IDE) on your computer.
