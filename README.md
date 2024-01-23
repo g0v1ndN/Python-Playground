@@ -65,5 +65,5 @@ This is a simple program designed to manage a list of contacts. Users can add ne
 ## Contributing:
 I warmly welcome contributions to the Python Playground repository! If you have fun and engaging Python programs suitable for beginners, your input is highly appreciated. To contribute, fork the repository, add your program under the <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/LICENSE">MIT License</a>, and submit a pull request. Let's collaborate and make learning Python enjoyable for all. For detailed instructions on creating pull requests, please refer to <a href="https://makeapullrequest.com/">this guide</a>.
 
-## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+## License: 
+This project is licensed under the terms & conditions (T&Cs) of the MIT license. If you're interested in reading more about it, please take a look at the <a href="https://github.com/g0v1ndN/Python-Playground/blob/main/LICENSE">LICENSE</a> document.
